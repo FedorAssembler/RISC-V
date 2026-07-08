@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/github/license/FedorKondratiev/RISC-V)](LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/FedorKondratiev/RISC-V)
+![Repo Size](https://img.shields.io/github/repo-size/FedorKondratiev/RISC-V)
 # RISC-V
 Это список моих мини-проектов по CS и CE реализованные через программирование под архитектуру RISC-V на ассемблере RV64i/RV32i.
 
